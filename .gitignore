@@ -33,3 +33,4 @@
 .DS_Store
 main/arduino_secrets.h
 main/ReadMe.adoc
+arduino_secrets.h
